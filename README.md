@@ -1,6 +1,6 @@
 <!-- ### Olá Pessoal! Sou a Anna 👋 -->
 
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou a Anna</h1>
+<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou a Anna</h1>
 
 
 - 🔥 Front-end developer
@@ -9,7 +9,7 @@
 
 - ▶️ I regularly post videos on [youtube.com/maykbrito](https://youtube.com/maykbrito)
 -->
-- 💬 Hard Skills **JavaScript, HTML, CSS **
+- 💬 Hard Skills **HTML, CSS, JavaScript**
 
 
 <br><br>
@@ -36,7 +36,7 @@
 
 <br><br>
 
-## 👨🏽‍🦲 &nbsp;Social Links
+## 👩🏼‍🦱 &nbsp;Social Links
 
 <!-- <p align="left" style="background:yellow">
 <a href="https://codepen.io/maykbrito" target="_blank">
@@ -51,10 +51,10 @@
 </p>
 -->
 <a href="https://linkedin.com/in/annaclaudiasabino" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-annaclaudiasabino-836FFF?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/annaclaudiasabino" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-annaclaudiasabino-836FFF?style=flat&logo=instagram" alt="instagram"/>
 </a>
 
 
