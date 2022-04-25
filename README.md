@@ -2,17 +2,11 @@
 
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou a Anna</h1>
 
-
-- 🔥 Front-end developer
-
-<!-- - 👨‍💻 All of my projects are available at [annasabino.work](https://maykbrito.dev) 
-
-- ▶️ I regularly post videos on [youtube.com/maykbrito](https://youtube.com/maykbrito)
--->
-- 💬 Hard Skills **HTML, CSS, JavaScript**
+🔥 Front-end developer<br>
+👩🏼‍💻 Hard Skills **HTML, CSS, JavaScript**
 
 
-<br><br>
+<br>
 
 <div align="left">
   <a href="https://github.com/rafaballerini">
@@ -29,7 +23,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0065a9?style=for-the-badge)&nbsp;
 
 
-<br><br>
+<br>
 
 ## 👩🏼‍🦱 &nbsp;Social Links
 
